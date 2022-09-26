@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <th class="tg-0pky">Description:</th>
-    <th class="tg-0pky">This indicator measures how many % of the projects are technically visible, that is, they are being monitored within the engineering dashboard</th>
+    <th class="tg-0pky">This indicator measures how many % of the projects are technically visible, that is, they are being monitored within the engineering dashboard. To understand how you can submit your project to be evaluated by the engineering dashboard, refer to <a href="https://db1global.sharepoint.com/:b:/s/engineers.it/EYBIsx4LdIlDhpam8fuoh68B5ANL7ai-V8ctCZ4OFun2tA?e=tEzi3q">this link</a></th>
   </tr>
   <tr>
     <th class="tg-0pky">Goal:</th>
@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <th class="tg-0pky">Scope:</th>
-    <th class="tg-0pky">Unidade</th>
+    <th class="tg-0pky">Business Unit</th>
   </tr>
 </thead>
 <tbody>
@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <td class="tg-0pky">Responsible for analysis:</td>
-    <td class="tg-0pky"> </td>
+    <td class="tg-0pky">Quality team</td>
   </tr>
   <tr>
     <td class="tg-0pky">Possible causes of deviation:</td>
