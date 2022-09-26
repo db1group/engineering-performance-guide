@@ -3,6 +3,9 @@
   <tr>
     <th class="tg-9wq8 color-white analise" colspan="8">Engineering Maturity Level</th>
   </tr>
+  
+</thead>
+<tbody>
   <tr>
     <th class="tg-9wq8 definicao color-black" rowspan="8">Definition </th>
     <th class="tg-0pky">Initials:</th>
@@ -41,8 +44,7 @@ EML = (1+2+0+1)/4</th>
     <th class="tg-0pky">Scope:</th>
     <th class="tg-0pky">Business Unit</th>
   </tr>
-</thead>
-<tbody>
+
   <tr>
     <td class="tg-9wq8 analise color-black" rowspan="9">Analysis</td>
     <td class="tg-0pky">Presentation form:</td>
@@ -52,16 +54,16 @@ EML = (1+2+0+1)/4</th>
     <td class="tg-0pky">Analysis Procedure:</td>
     <td class="tg-0pky">Level 0 - Unmapped:<br/>
 *no engineering metrics; <br/>
-*No lead engineer/ engineer manager; <br/>
+*No lead engineer/ engineer manager; <br/><br/>
 Level 1 - Standard: <br/>
 *Visible sonar metrics - 0,33pts; <br/>
 *Visible project processes - 0,33pts;<br/>
-*Lead engineer/ engineer manager - 0,33pts;<br/>
+*Lead engineer/ engineer manager - 0,33pts;<br/><br/>
 Level 2 - Managed: <br/>
 *Healthy sonar metrics - 0,25pts;<br/>
 *Healthy lead engineer/engineer manager proportion (1 lead by <=7 developers) - 0,25pts;<br/>
 *DB1 best practices for software development (100%) - 0,25pts; <br/>
-*Automated pipelines (CI/CD) dor projects (>=80%) - 0,25pts. <br/>
+*Automated pipelines (CI/CD) dor projects (>=80%) - 0,25pts. <br/><br/>
 Level 3 - Optimal: <br/>
 In addition to DB1's recommendations, the team improves the process by creating new practices that improve the quality of the developed software.
 <br/><br/>
