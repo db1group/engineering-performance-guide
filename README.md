@@ -52,7 +52,7 @@ In addition to the 3 levels, the indicators can also be divided into 3 categorie
      
 <br>
 
-|**Level**|**Category**|**Indicator**|**Name**
+|**Level**|**Category**|**Indicator**|**Description**
 |---------|------------|-------------|--------
 | [Operational](#operational) | [Code Metric](#code-metric) | [**Code Coverage**](https://docs.sonarqube.org/latest/user-guide/metric-definitions/#header-9)           | Code coverage is a software testing metric that determines the number of lines of code that is successfully validated under a test procedure |
 | [Operational](#operational) | [Code Metric](#code-metric) | [**Maintainability**](https://docs.sonarqube.org/latest/user-guide/metric-definitions/#header-4)           | Rating given to a project related to the value of the Technical Debt Ratio (Ratio between the cost to develop the software and the cost to fix it) |
