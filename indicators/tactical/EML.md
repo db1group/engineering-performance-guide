@@ -1,60 +1,45 @@
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle;font-weight:bold;}
-.definicao{background-color:#FFC05A;}
-.color-black{color:black;}
-.color-white{color:white;}
-.analise{background-color:#4867FF;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top;font-weight:bold;}
-</style>
 <table class="tg">
-<!-- <thead> -->
   <tr>
-    <th class="tg-9wq8 color-white analise" colspan="8">Engineering Maturity Level</th>
+    <td class="tg-9wq8 color-white analise" colspan="8">Engineering Maturity Level</td>
   </tr>
   <tr>
-    <th class="tg-9wq8 definicao color-black" rowspan="8">Definition </th>
-    <th class="tg-0pky">Initials:</th>
-    <th class="tg-0pky">EML</th>
+    <td class="tg-9wq8 definicao color-black" rowspan="8">Definition </td>
+    <td class="tg-0pky">Initials:</td>
+    <td class="tg-0pky">EML</td>
   </tr>
   <tr>
-    <th class="tg-0pky">Description:</th>
-    <th class="tg-0pky">This indicator measures the average engineering maturity of projects, using the following criteria:<br/>
+    <td class="tg-0pky">Description:</td>
+    <td class="tg-0pky">This indicator measures the average engineering maturity of projects, using the following criteria:<br/>
     3- Optimal;<br/>
     2- Managed;<br/>
     1- Standard;<br/>
-    0- Unmapped/ Chaos.</th>
+    0- Unmapped/ Chaos.</td>
   </tr>
   <tr>
-    <th class="tg-0pky">Goal:</th>
-    <th class="tg-0pky">Every team and project with engineering maturity level 1</th>
+    <td class="tg-0pky">Goal:</td>
+    <td class="tg-0pky">Every team and project with engineering maturity level 1</td>
   </tr>
   <tr>
-    <th class="tg-0pky">Calculation formula and procedure:</th>
-    <th class="tg-0pky">EML = Sum of each project's maturity level / Number of projects. Example:<br/>
+    <td class="tg-0pky">Calculation formula and procedure:</td>
+    <td class="tg-0pky">EML = Sum of each project's maturity level / Number of projects. Example:<br/>
 Team1 = Level 1 <br/>
 Team2 = Level 0<br/>
 Team3 = Level 1<br/>
 Team4 = Level 2<br/>
-EML = (1+2+0+1)/4</th>
+EML = (1+2+0+1)/4</td>
   </tr>
   <tr>
-    <th class="tg-0pky">Frequency of calculation and analysis:</th>
-    <th class="tg-0pky">Monthly</th>
+    <td class="tg-0pky">Frequency of calculation and analysis:</td>
+    <td class="tg-0pky">Monthly</td>
   </tr>
   <tr>
-    <th class="tg-0pky">Standard unit of measure:</th>
-    <th class="tg-0pky">Percentage</th>
+    <td class="tg-0pky">Standard unit of measure:</td>
+    <td class="tg-0pky">Percentage</td>
   </tr>
   <tr>
-    <th class="tg-0pky">Scope:</th>
-    <th class="tg-0pky">Business Unit</th>
+    <td class="tg-0pky">Scope:</td>
+    <td class="tg-0pky">Business Unit</td>
   </tr>
-<!-- </thead> -->
 <tbody>
   <tr>
     <td class="tg-9wq8 analise color-black" rowspan="9">Analysis</td>
@@ -108,5 +93,4 @@ To assign the score in the indicator, perform the sum of the items that the proj
     <td class="tg-0pky">Disclosure and Communication:</td>
     <td class="tg-0pky">Engineering Sync, meetings with managers and Board meetings.</td>
   </tr>
-</tbody>
 </table>
