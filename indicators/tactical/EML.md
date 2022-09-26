@@ -1,6 +1,8 @@
 <table class="tg">
   <tr>
-    <td class="tg-9wq8 color-white analise" colspan="8" style="text-align: center;"><strong>Engineering Maturity Level</strong></td>
+<td colspan="8" style="
+    text-align: center;
+"><strong>Engineering Maturity Level</strong></td>
   </tr>
   <tr>
     <td class="tg-9wq8 definicao color-black" rowspan="8"><strong>Definition</strong> </td>
