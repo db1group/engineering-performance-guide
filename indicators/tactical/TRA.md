@@ -6,69 +6,69 @@
   <tr>
     <td class="tg-9wq8 definicao color-black" rowspan="8"><strong>Definition</strong></td>
     <td class="tg-0pky"><strong>Initials:</strong></td>
-    <td class="tg-0pky">TRA</td>
+    <td class="tg-0pky">TRA.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Description:</strong></td>
-    <td class="tg-0pky">This indicator shows the percentage of teams that have a technical manager (lead engineer or engineer manager)</td>
+    <td class="tg-0pky">This indicator shows the percentage of teams that have a technical responsible for the engineering team (lead engineer or engineer manager).</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Goal:</strong></td>
-    <td class="tg-0pky">100% adoption</td>
+    <td class="tg-0pky">100%.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Calculation formula and procedure:</strong></td>
-    <td class="tg-0pky">TRA = Number of teams with responsible technician vs total teams</td>
+    <td class="tg-0pky">TRA = Number of teams with technical responsible / total teams.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Frequency of calculation and analysis:</strong></td>
-    <td class="tg-0pky">Monthly</td>
+    <td class="tg-0pky">Monthly.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Standard unit of measure:</strong></td>
-    <td class="tg-0pky">Percentage</td>
+    <td class="tg-0pky">Percentage.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Scope:</strong></td>
-    <td class="tg-0pky">Business Unit</td>
+    <td class="tg-0pky">Business Unit.</td>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-9wq8 analise color-black" rowspan="9">Analysis</td>
     <td class="tg-0pky"><strong>Presentation form:</strong></td>
-    <td class="tg-0pky">Bar graph</td>
+    <td class="tg-0pky">Bar graph.</td>
   </tr>
   <tr>
-    <td class="tg-0pky"><strong>Analysis Procedure:</strong></td>
-    <td class="tg-0pky">It is important in the consolidation of this indicator to highlight which projects (suggestion through the logo) are outside the adherence scale and whether they are within or outside the deadline in terms of the mapped action plan to be adherent..</td>
+    <td class="tg-0pky"><strong>Analysis procedure:</strong></td>
+    <td class="tg-0pky">It's important to highlight in the analysis which projects are not adherent and whether they are within or outside the deadline to be adherent.</td>
   </tr>
   <tr>
-    <td class="tg-0pky"><strong>Indicator Validation:</strong></td>
+    <td class="tg-0pky"><strong>Indicator validation:</strong></td>
     <td class="tg-0pky"> 
-     <a href="https://db1global.sharepoint.com/:p:/r/sites/db1_documents/_layouts/15/Doc.aspx?sourcedoc=%7BC0019C4B-B8B9-414E-A425-E6396192DF18%7D&file=Organograma%20DGS.pptx&action=edit&mobileredirect=true&params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjAyMDcwMTgxMiJ9&cid=4b439c53-92f2-4528-aff0-ec3c43116807">Chart Link</a></td>
+     <a href="https://healthpanel.db1.com.br/">Link.</a></td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Target audience:</strong></td>
-    <td class="tg-0pky">Engineering team, project and operations leaders and directors</td>
+    <td class="tg-0pky">Engineering team, project, operation leaders and directors.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Responsible for collection:</strong></td>
-    <td class="tg-0pky">Staff Engineers</td>
+    <td class="tg-0pky">Staff engineers.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Responsible for analysis:</strong></td>
-    <td class="tg-0pky">Quality team</td>
+    <td class="tg-0pky">Staff engineers.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Possible causes of deviation:</strong></td>
     <td class="tg-0pky">
     *Customer restrictions;<br/>
-    *No prioritization of opening of vacancies for technical managers.</td>
+    *Non-prioritization of job openings for technical leaders.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Disclosure and Communication:</strong></td>
-    <td class="tg-0pky">Engineering Sync, meetings with managers and Board meetings.</td>
+    <td class="tg-0pky">Engineering sync and project leaders meeting.</td>
   </tr>
 </tbody>
 </table>

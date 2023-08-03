@@ -6,15 +6,15 @@
   <tr>
     <td class="tg-9wq8 definicao color-black" rowspan="8"><strong>Definition</strong></td>
     <td class="tg-0pky"><strong>Initials:</strong></td>
-    <td class="tg-0pky">EMH</td>
+    <td class="tg-0pky">EMH.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Description:</strong></td>
-    <td class="tg-0pky">This indicator represents the average engineering code metrics value</td>
+    <td class="tg-0pky">This indicator represents the average engineering code metrics health.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Goal:</strong></td>
-    <td class="tg-0pky">>= 80%</td>
+    <td class="tg-0pky">>= 80%.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Calculation formula and procedure:</strong></td>
