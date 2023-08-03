@@ -37,7 +37,7 @@
   <tr>
     <td class="tg-9wq8 analise color-black" rowspan="9"><strong>Analysis</strong></td>
     <td class="tg-0pky"><strong>Presentation form:</strong></td>
-    <td class="tg-0pky">Bar graph.</td>
+    <td class="tg-0pky">Line chart.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Analysis Procedure:</strong></td>
@@ -46,7 +46,8 @@
   <tr>
     <td class="tg-0pky"><strong>Indicator Validation:</strong></td>
     <td class="tg-0pky"> 
-     <a href="https://healthpanel.db1.com.br/">Healthpanel</a>.</td>
+     <a href="http://healthpanel.db1.com.br">HealthPanel</a>.
+     </td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Target audience:</strong></td>

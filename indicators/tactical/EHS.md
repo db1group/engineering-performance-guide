@@ -44,31 +44,32 @@
   <tr>
     <td class="tg-9wq8 analise color-black" rowspan="9"><strong>Analysis</strong></td>
     <td class="tg-0pky"><strong>Presentation form:</strong></td>
-    <td class="tg-0pky">Bar graph.</td>
+    <td class="tg-0pky">Line chart.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Analysis Procedure:</strong></td>
     <td class="tg-0pky">
-    The engineer <a href="https://healthpanel.db1.com.br/">HealthPanel</a> will .
+    Once <a href="./EMH.md">EMH</a> and <a href="./EPH.md">EPH</a> is in place, the engineer <a href="https://healthpanel.db1.com.br/">HealthPanel</a> will tell you what your engineering health score is.
     </td>
 </td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Indicator Validation:</strong></td>
     <td class="tg-0pky"> 
-     <a href="https://app.powerbi.com/groups/me/reports/6b4ba5d7-1fa9-4da6-ba39-79d305cd836b/ReportSectione4359b054498a2e62570">PowerBI Link</a></td>
+     <a href="http://healthpanel.db1.com.br">HealthPanel</a>.
+     </td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Target audience:</strong></td>
-    <td class="tg-0pky">Engineering team, project and operations leaders and directors</td>
+    <td class="tg-0pky">Engineering team, project and operations leaders and directors.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Responsible for collection:</strong></td>
-    <td class="tg-0pky">Staff Engineers</td>
+    <td class="tg-0pky">Lead engineers.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Responsible for analysis:</strong></td>
-    <td class="tg-0pky">Quality team</td>
+    <td class="tg-0pky">Lead and staff engineers.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Possible causes of deviation:</strong></td>
