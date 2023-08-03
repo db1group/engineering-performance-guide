@@ -14,23 +14,30 @@
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Goal:</strong></td>
-    <td class="tg-0pky">>= 80%.</td>
+    <td class="tg-0pky">
+    <table>
+      <th>Metric Health</th>
+      <tr><td>>=80% Healthy</td></tr>
+      <tr><td>>=60% & <80% Degraded</td></tr>
+      <tr><td>>60% Unhealthy</td></tr>
+    </table>
+    </td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Calculation formula and procedure:</strong></td>
-    <td class="tg-0pky">EMH = The average engineering code metrics evaluated by Sonarqube</td>
+    <td class="tg-0pky">EMH = The average engineering code metrics health evaluated by <a href="https://www.sonarsource.com/products/sonarqube/">SonarQube.</a></td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Frequency of calculation and analysis:</strong></td>
-    <td class="tg-0pky">Biweekly</td>
+    <td class="tg-0pky">Biweekly.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Standard unit of measure:</strong></td>
-    <td class="tg-0pky">Percentage</td>
+    <td class="tg-0pky">Percentage.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Scope:</strong></td>
-    <td class="tg-0pky">Business Unit</td>
+    <td class="tg-0pky">Business Unit or Team's projects.</td>
   </tr>
 </thead>
 <tbody>
@@ -41,39 +48,38 @@
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Analysis Procedure:</strong></td>
-    <td class="tg-0pky">After integrating SonarQube to the project, the engineering panel will be fed - <a href="https://db1global.sharepoint.com/:b:/s/engineers.it/EYBIsx4LdIlDhpam8fuoh68B5ANL7ai-V8ctCZ4OFun2tA?e=tEzi3q">more details here</a>. <br/><br/>
-    The engineer panel will add points for every code metric considering their range (it is important to point out that the ranges are defined by SonarQube community). After that, you will be able to check every project's average metric.
-    <br/><br/>
-    Every code metric have the same weight.
+    <td class="tg-0pky">After integrating SonarQube to the project, the engineering panel will be fed - <a href="https://db1global.sharepoint.com/:b:/s/engineers.it/EYBIsx4LdIlDhpam8fuoh68B5ANL7ai-V8ctCZ4OFun2tA?e=tEzi3q">more details here</a> TODO: UPDATE LINK. <br/><br/>
+    The engineer healthpanel will add points for every code metric considering their range (it's important to mention that ranges are defined by SonarQube community).
+    <br/>
     </td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Indicator Validation:</strong></td>
     <td class="tg-0pky"> 
-  <a href="https://app.powerbi.com/groups/me/reports/6b4ba5d7-1fa9-4da6-ba39-79d305cd836b/ReportSectione4359b054498a2e62570">PowerBI Link</a>
- </td>
+      <a href="https://healthpanel.db1.com.br/">Healthpanel</a>.
+    </td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Target audience:</strong></td>
-    <td class="tg-0pky">Engineering team, project and operations leaders and directors</td>
+    <td class="tg-0pky">Engineering team, project, operations leaders and directors.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Responsible for collection:</strong></td>
-    <td class="tg-0pky">Staff Engineers</td>
+    <td class="tg-0pky">Lead engineers.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Responsible for analysis:</strong></td>
-    <td class="tg-0pky">Quality team</td>
+    <td class="tg-0pky">Lead and staff engineers</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Possible causes of deviation:</strong></td>
     <td class="tg-0pky">
     *Customer restrictions;<br/>
-    *No prioritization of opening of vacancies for technical managers.</td>
+    *Non-prioritization of job openings for technical leaders.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Disclosure and Communication:</strong></td>
-    <td class="tg-0pky">Engineering Sync, meetings with managers and Board meetings.</td>
+    <td class="tg-0pky">Engineering sync, lead and staff engineer report meeting.</td>
   </tr>
 </tbody>
 </table>

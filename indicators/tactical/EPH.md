@@ -64,12 +64,12 @@
   <tr>
     <td class="tg-0pky"><strong>Indicator Validation:</strong></td>
     <td class="tg-0pky"> 
-  <a href="https://healthpanel.db1.com.br/">Healthpanel</a>.
+      <a href="https://healthpanel.db1.com.br/">Healthpanel</a>.
  </td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Target audience:</strong></td>
-    <td class="tg-0pky">Engineering team, project and operations leaders and directors.</td>
+    <td class="tg-0pky">Engineering team, project, operations leaders and directors.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Responsible for collection:</strong></td>
