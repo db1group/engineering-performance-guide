@@ -83,3 +83,11 @@
   </tr>
 </tbody>
 </table>
+
+## Our opinion
+
+It's impossible to be aware 100% of the time. I'm talking about real conciousness. You don't think all the time to make decisions, why should we expect that from engineers? they're just people.
+
+So, everytime we write a code in a way we shouldn't, some automated tool should tell us we did wrong so we can fix it and adjust our autopilot. 
+
+With the metrics indicator we can have that. It's a powerful tool to guide us in the daily basis, discuss in retrospectives, manage and plan on paying technical debt, etc.

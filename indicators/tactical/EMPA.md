@@ -75,3 +75,9 @@
   </tr>
 </tbody>
 </table>
+
+## Our opinion
+
+What good can the knowledge built on every indicator in this guide do, if we don't use it?
+
+EMPA will show us that adherance. Every engineering team should be seen in this process. That is the only way someone far from the team can understand what is going on.

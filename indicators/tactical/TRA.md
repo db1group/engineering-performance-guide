@@ -72,3 +72,14 @@
   </tr>
 </tbody>
 </table>
+
+## Our opinion
+
+Why should we have a lead engineer in every team? I'll sum up the main reasons:
+
+1. One of the [agile manifesto principles](https://agilemanifesto.org/principles.html) is to **"Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done."**. Having a lead help us address important matters, in this case engineering stuff. That also means someone in the team will be **recognized** for carrying out that responsability. This has found to be a **motivation tool** for everyone to develop themselves.
+2. Another [principle](https://agilemanifesto.org/principles.html) is **"Continuous attention to technical excellence and good design enhances agility."**. Having a very experienced person **defining and guaranteen coherent technical solutions** and **not taking naive decisions** will help us **not creating future problems** to deal with.
+
+Make no mistake, the lead engineer will not be a GOD or the one that have all the answers, but we now have someone that **builds confidence** in the team for technical decisions.
+
+This role will **maximize the potencial** of his **engineers** by ensuring they **focus on business code** as much time as they can.

@@ -82,3 +82,11 @@
     <td class="tg-0pky">Engineering sync, lead and staff engineer report meeting.</td>
   </tr>
 </table>
+
+## Our opinion
+
+Averages are dumb. Everytime we use an average for something, we have a myopic vision of things. But think about your high ranking managers, the Chief Technology Officer of your company for example. How can he know the details? it's impossible.
+
+**EHS** is a way to **identify tendencies**. If something (either process or metrics) is not working right, with the given time, that will affect this indicator. 
+
+If your **strategic and tactical levels can see** that, they can help you. For instance, if the engineering health is low in your team, would training help? Should we hire someone more experienced to the team? Should we find a consulting company in the market for guidance? **Managers need to see** that **in a way they understand: numbers!**

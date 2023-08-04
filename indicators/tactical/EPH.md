@@ -77,7 +77,7 @@
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Responsible for analysis:</strong></td>
-    <td class="tg-0pky">Lead and staff engineers</td>
+    <td class="tg-0pky">Lead and staff engineers.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><strong>Possible causes of deviation:</strong></td>
@@ -91,3 +91,9 @@
   </tr>
 </tbody>
 </table>
+
+## Our opinion
+
+We have now some decades of experience on how to develop software. How can we guarantee all that knowledge don't get lost? One of the answers for that is making sure **everytime we learn a good practice** in software development, **we ensure everyone else** on other teams also **implement it**.
+
+That is why measuring **process** adherence is so important.
